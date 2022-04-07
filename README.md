@@ -21,7 +21,7 @@ I am dedicated to research mainly on
   <li>updates in python </li>
 </ol>
 
-<p style="center"><h1>I'm not so good but I can be better than you</h1></p>
+<p style="center">I'm not so good but I can be better than you</p>
 
 <!--- developers gif : that's good owo -->
 
