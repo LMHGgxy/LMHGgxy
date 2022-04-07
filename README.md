@@ -12,7 +12,7 @@ Hello, I'm Luis, a Peruvian developer in full studies of many languages, the one
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
 <br>
-<b>university</b><img height="20" src="https://www.carreras.pe/userfiles/images/Logos%20y%20fachadas/logo%20UPAL2.jpg">
+<b>university : </b><img height="20" src="https://www.carreras.pe/userfiles/images/Logos%20y%20fachadas/logo%20UPAL2.jpg"><br>
 I am dedicated to research mainly on
 <ol type="square">
   <li>Offensive Security </li>
