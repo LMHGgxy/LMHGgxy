@@ -20,7 +20,7 @@ I am dedicated to research mainly on
   <li>updates in python </li>
 </ol>
 
-### I'm not so good but I can be better than you
+<p align="center">### I'm not so good but I can be better than you</p align="center">
 
 <!--- developers gif : that's good owo -->
 
