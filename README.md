@@ -20,13 +20,6 @@ I am dedicated to research mainly on
   <li>updates in python </li>
 </ol>
 
-<p align="center">### I'm not so good but I can be better than you</p align="center">
+<p align="center">### I'm not so good but I can be better than you
 
-<!--- developers gif : that's good owo -->
-
-<p align="center"><img alt="DEV" src="https://i.pinimg.com/originals/0c/b5/9a/0cb59a687178d5c766f00fdcb8015e9d.gif" width=500/></p>
-
-
-
-<!--- nerd-ops code --->
-<!--- end of my noob code owo --->
+<img alt="DEV" src="https://i.pinimg.com/originals/0c/b5/9a/0cb59a687178d5c766f00fdcb8015e9d.gif" width=500/></p>
