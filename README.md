@@ -1,14 +1,14 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Luis, a Peruvian developer in full studies of many languages, the ones I use the most at the moment are :
+## 🐱‍👤 About Me
+Hi there! I'm a Peruvian programmer who has been studying programming since before the pandemic. I'm passionate about the world of technology and always looking for opportunities to learn and improve my skills. Currently, I'm studying software engineering.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<br>
-<br>
-I am dedicated to research mainly on
-<ol type="square">
-  <li>Offensive Security </li>
-  <li>Cation of scripts in python </li>
-  <li>GUI implementation </li>
-  <li>updates in python </li>
-</ol>
+Although I don't have any noteworthy projects yet, I'm always willing to collaborate on interesting projects and work as part of a team to grow and learn. If you have a project in mind and need a developer, feel free to contact me.
+
+## 🛠 skills and stats
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,css,python,html)](https://github.com/Jurredr/github-widgetbox)
+
+[![LMHGgxy GitHub stats](https://github-readme-stats.vercel.app/api?username=LMHGgxy)](https://github.com/anuraghazra/github-readme-stats)
+## 🔗 Links
+
+[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idkdwmbb)
