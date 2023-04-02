@@ -19,7 +19,3 @@ I am dedicated to research mainly on
   <li>GUI implementation </li>
   <li>updates in python </li>
 </ol>
-
-### I'm not so good but I can be better than you
-
-<p align="center"><img alt="DEV" src="https://i.pinimg.com/originals/0c/b5/9a/0cb59a687178d5c766f00fdcb8015e9d.gif" width=500/></p>
