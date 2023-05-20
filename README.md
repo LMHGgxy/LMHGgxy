@@ -9,4 +9,3 @@ Although I don't have any noteworthy projects yet, I'm always willing to collabo
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,css,python,html)](https://github.com/Jurredr/github-widgetbox)
 <div align="center">
 [![LMHGgxy GitHub stats](https://github-readme-stats.vercel.app/api?username=LMHGgxy)](https://github.com/anuraghazra/github-readme-stats)
-</div>
