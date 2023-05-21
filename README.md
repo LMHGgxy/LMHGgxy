@@ -4,8 +4,6 @@ Hi there! I'm a Peruvian programmer who has been studying programming since befo
 
 Although I don't have any noteworthy projects yet, I'm always willing to collaborate on interesting projects and work as part of a team to grow and learn. If you have a project in mind and need a developer, feel free to contact me.
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMHGgxy&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMHGgxy&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=LMHGgxy&show_icons=true&theme=transparent" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMHGgxy&layout=compact&theme=transparent" alt="Top Languages" />
