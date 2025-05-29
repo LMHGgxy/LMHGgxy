@@ -43,5 +43,3 @@ Diseño de una aplicación modular, estética oscura/neón, escalable, orientada
 
 - GitHub: [github.com/LMHGgxy](https://github.com/LMHGgxy)
 - Telegram: `@RawPayload`
-- LinkedIn: [linkedin.com/in/rawpayload](https://linkedin.com/in/rawpayload)
-- Email: `rawpayload@pm.me`
