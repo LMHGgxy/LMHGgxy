@@ -42,4 +42,4 @@ Diseño de una aplicación modular, estética oscura/neón, escalable, orientada
 ## 📡 Contacto
 
 - GitHub: [github.com/LMHGgxy](https://github.com/LMHGgxy)
-- Telegram: `[@RawPayload](https://t.me/GatewaySlayer)`
+- Telegram: [@RawPayload](https://t.me/GatewaySlayer)
